@@ -27,7 +27,7 @@ Begin by downloading the latest release.  Extract the contents of the archive in
 
 | Setting | Description |
 |---------|-------------|
-| **Text Separator** | Determines what text (if any) will be used to separate the descendant text appended to the ancestor item.  Supports `\n` for newlines (and `\r\n`) and `\t` for tabe as well as any other text you wish to include. |
+| **Text Separator** | Determines what text (if any) will be used to separate the descendant text appended to the ancestor item.  Supports `\n` for newlines (and `\r\n`) and `\t` for tab as well as any other text you wish to include. |
 | **Don't Append Empty Text from Descendants** | When checked the script will not append descendant text which is empty or contains only whitespace characters. |
 | **Only Roll Up Immaterial Children and Their Descendants** | When checked, rolled up descendants will be located by getting the immaterial children of a selected ancestor item and their descendants.  When not checked ALL descendants of each selected ancestor item will be rolled up. |
 | **Backup Selected Item Text** | When checked, the text of each selected item will be backed up into the specified directory. |
