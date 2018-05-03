@@ -4,7 +4,7 @@ Roll Up Descendants
 
 ![Last tested in Nuix 7.4](https://img.shields.io/badge/Nuix-7.4-green.svg)
 
-View the GitHub project [here](https://github.com/NuixSDK/Roll-Up-Descendants) or download the latest release [here](https://github.com/NuixSDK/Roll-Up-Descendants/releases).
+View the GitHub project [here](https://github.com/Nuix/Roll-Up-Descendants) or download the latest release [here](https://github.com/Nuix/Roll-Up-Descendants/releases).
 
 # Overview
 
