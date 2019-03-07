@@ -1,8 +1,8 @@
-
 Roll Up Descendants
-================
+===================
 
-![Last tested in Nuix 7.4](https://img.shields.io/badge/Nuix-7.4-green.svg)
+
+![This script was last tested in Nuix 7.8](https://img.shields.io/badge/Script%20Tested%20in%20Nuix-7.8-green.svg)
 
 View the GitHub project [here](https://github.com/Nuix/Roll-Up-Descendants) or download the latest release [here](https://github.com/Nuix/Roll-Up-Descendants/releases).
 
@@ -51,6 +51,14 @@ When Nuix is started with arguments along the lines of:
 ```
 
 The item text stored on the file system will be updated along with the text of the item if Nuix reports that the item is stored and returns a path to the text on the file system (see [Text.isStored](https://download.nuix.com/releases/desktop/stable/docs/en/scripting/api/nuix/Text.html#isStored--) and [Text.getStoredPath](https://download.nuix.com/releases/desktop/stable/docs/en/scripting/api/nuix/Text.html#getStoredPath--)).
+
+# Cloning this Repository
+
+This script relies on code from [Nx](https://github.com/Nuix/Nx) to present a settings dialog and progress dialog.  This JAR file is not included in the repository (although it is included in release downloads).  If you clone this repository, you will also want to obtain a copy of Nx.jar by either:
+1. Building it from [the source](https://github.com/Nuix/Nx)
+2. Downloading an already built JAR file from the [Nx releases](https://github.com/Nuix/Nx/releases)
+
+Once you have a copy of Nx.jar, make sure to include it in the same directory as the script.
 
 # License
 
